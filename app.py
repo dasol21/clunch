@@ -41,6 +41,6 @@ def hate_restaurant():
     # 3. 성공하면 success 메시지를 반환합니다.
     return jsonify({'result': 'success', 'msg': '싫어요'})
 
-
+# 수정기록 남기는 테스트입니다.
 if __name__ == '__main__':
     app.run('0.0.0.0', port=5000, debug=True)

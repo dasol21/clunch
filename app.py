@@ -42,6 +42,7 @@ def hate_restaurant():
     return jsonify({'result': 'success', 'msg': '싫어요'})
 
 # 수정기록 남기는 테스트입니다.
-# 슬랙 연결했지롱
+# 슬랙 연결 노티가 올까요?
+
 if __name__ == '__main__':
     app.run('0.0.0.0', port=5000, debug=True)

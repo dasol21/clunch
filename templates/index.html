@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>클쉐린 가이드!</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css"/>
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+        <!-- HTML에 이 부분을 추가하고 -->
+        <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
+
+        <style>
+            .center {
+                text-align: center;
+            }
+
+            .star-list {
+                width: 500px;
+                margin: 20px auto 0 auto;
+            }
+
+            .star-name {
+                display: inline-block;
+            }
+
+            .star-name:hover {
+                text-decoration: underline;
+            }
+
+            .card {
+                margin-bottom: 15px;
+            }
+
+            section > * {
+                font-family: 'Nanum Gothic', sans-serif;
+            }
+
+        </style>
+        <script>
+            $(document).ready(function () {
+                // index.html 로드가 완료되면 자동으로 showStar() 함수를 호출합니다.
+                showrestaurant();
+            });
+
+            function showrestaurant() {
+                $('#restaurant-box').empty()
+
+                $.ajax({
+                    type: 'GET',
+                    url: '/api/list',
+                    data: {},
+                    success: function (response) {
+                        let restaurants = response['restaurant_list']
+                        console.log(restaurants);
+                        for (let i = 0; i < restaurants.length; i++) {
+                            let restaurant = restaurants[i]
+
+                            let name = restaurant['title']
+                            let url = 'https://map.naver.com/v5/search/' + name.replaceAll('<b>', '').replaceAll('</b>', '')
+                            let category = restaurant['category']
+                            let place = restaurant['address']
+                            let like = restaurant['like']
+                            let hate = restaurant['hate']
+
+                            let tempHtml = `<div class="card">
+                <div class="card-content">
+
+                        <div class="media-content">
+                            <a href="${url}" target="_blank" class="restaurant-name title is-4">${name}</a>
+                            <h4>${category}</h4>
+                        </div>
+                    </div>
+
+                <footer class="card-footer">
+                    <a href="#" onclick="likerestaurant('${name}')"  class="card-footer-item has-text-info">
+                        추천입니다 !
+                        <span class="icon">
+              <i class="fas fa-thumbs-up"></i>
+            </span>   ${like}개
+                    </a>
+                    <a href="#" onclick="haterestaurant('${name}')" class="card-footer-item has-text-danger">
+                        흠..굳이?
+                        <span class="icon">
+              <i class="fas fa-thumbs-down"></i>
+            </span> ${hate}개
+                    </a>
+                </footer>
+            </div>`
+
+                            $('#restaurant-box').append(tempHtml)
+                        }
+                        // if (response['result'] == 'success') {
+                        //    let msg = response['msg'];
+                        //   alert('업데이트 완료');
+                        //}
+                    }
+                });
+            }
+
+            function likerestaurant(name) {
+                $.ajax({
+                    type: 'POST',
+                    url: 'api/restaurant/like',
+                    data: {'name_give': name},
+                    success: function (response) {
+                        if (response['result'] == 'success') {
+                            //let msg = response['msg'];
+                            alert('맛있었나봐요:)')
+                            window.location.reload()
+                        }
+                    }
+                });
+            }
+
+            function haterestaurant(name) {
+                $.ajax({
+                    type: 'POST',
+                    url: 'api/restaurant/hate',
+                    data: {'name_give': name},
+                    success: function (response) {
+                        if (response['result'] == 'success') {
+                            //let msg = response['msg'];
+                            alert('다른 맛집을 찾아봅시다ㅠ.ㅠ')
+                            window.location.reload()
+                        }
+                    }
+                });
+            }
+
+        </script>
+    </head>
+    <body>
+        <section class="hero is-warning">
+            <div class="hero-body">
+                <div class="media">
+                    <div class="container center">
+                        <img src="https://ifh.cc/g/zcHO2o.png"
+                                 alt="Placeholder image"
+                             width="48"
+                            />
+                        <h1 class="title">
+                            클쉐린 가이드😋
+                        </h1>
+                        <h2 class="subtitle">
+                            오늘 점심은 무엇을 먹어볼까나?
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="restaurant-list" id="restaurant-box">
+            <div class="card">
+                <div class="card-content">
+                    <div class="media">
+                        <div class="media-left">
+                            <figure class="image is-48x48">
+                                <img
+                                        src="https://ifh.cc/g/cS7G9m.jpg"
+                                        alt="Placeholder image"
+                                />
+                            </figure>
+                        </div>
+                        <div class="media-content">
+                            <a href="#" target="_blank" class="restaurant-name title is-4">8월의 기린 (좋아요: 3)</a>
+                        </div>
+                    </div>
+                </div>
+                <footer class="card-footer">
+                    <a href="#" onclick="likerestaurant('8월의 기린')" class="card-footer-item has-text-info">
+                        추천입니다 !
+                        <span class="icon">
+              <i class="fas fa-thumbs-up"></i>
+            </span>
+                    </a>
+                    <a href="#" onclick="haterestaurant('8월의 기린')" class="card-footer-item has-text-danger">
+                        흠..굳이?
+                        <span class="icon">
+              <i class="fas fa-thumbs-down"></i>
+            </span>
+                    </a>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>

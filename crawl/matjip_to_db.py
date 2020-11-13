@@ -7,6 +7,7 @@ import time
 client = MongoClient('localhost', 27017)
 db = client.seoul_matjip
 
+
 # 서울시 구마다 맛집을 검색해보겠습니다.
 seoul_station = ["서울역"]
 

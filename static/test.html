@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <div class="card">
+            <div class="card-content">
+                <div class="media-content">
+                    <a href="${url}" target="_blank" class="restaurant-name title is-4">${name}</a>
+                    <h4>${place}</h4>
+                </div>
+            </div>
+
+            <footer class="card-footer">
+                <a href="#" onclick="likerestaurant('${name}')" class="card-footer-item has-text-info">
+                    추천입니다 !
+                    <span class="icon">
+              <i class="fas fa-thumbs-up"></i>
+            </span> ${like}
+                </a>
+                <a href="#" onclick="haterestaurant('${name}')" class="card-footer-item has-text-danger">
+                    흠..굳이?
+                    <span class="icon">
+              <i class="fas fa-thumbs-down"></i>
+            </span> ${hate}개
+                </a>
+            </footer>
+        </div>
+
+
+    </body>
+</html>

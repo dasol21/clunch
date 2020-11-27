@@ -1,0 +1,1599 @@
+/* 1 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8e9"),
+    "title" : "만족오향<b>족발</b> 시청점",
+    "link" : "http://www.manjok.net/",
+    "category" : "육류,고기요리>족발,보쌈",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 태평로2가 318-1",
+    "roadAddress" : "서울특별시 중구 서소문로 134-7",
+    "mapx" : "309733",
+    "mapy" : "551722",
+    "hate" : 3,
+    "like" : 5
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8ea"),
+    "title" : "서부<b>족발</b>",
+    "link" : "",
+    "category" : "한식>족발,보쌈",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 중림동 129-38",
+    "roadAddress" : "서울특별시 중구 청파로 425 1층",
+    "mapx" : "309098",
+    "mapy" : "551097",
+    "hate" : 1,
+    "like" : 1
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8eb"),
+    "title" : "가마솥족발순대국",
+    "link" : "",
+    "category" : "음식점>한식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 12-4",
+    "roadAddress" : "서울특별시 용산구 후암로 62",
+    "mapx" : "309819",
+    "mapy" : "550411",
+    "hate" : 2,
+    "like" : 6
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8ec"),
+    "title" : "더<b>족발</b>",
+    "link" : "",
+    "category" : "한식>족발,보쌈",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 중림동 339-2",
+    "roadAddress" : "서울특별시 중구 중림로 48-1 1층,2층",
+    "mapx" : "309038",
+    "mapy" : "551067",
+    "hate" : 0,
+    "like" : 4
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8ed"),
+    "title" : "올레<b>족발</b> 후암동점",
+    "link" : "http://0237895882.tshome.co.kr/",
+    "category" : "한식>족발,보쌈",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 105-73",
+    "roadAddress" : "서울특별시 용산구 후암로 37",
+    "mapx" : "309839",
+    "mapy" : "550160",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8ee"),
+    "title" : "광화문<b>국밥</b>",
+    "link" : "",
+    "category" : "한식>국밥",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 정동 1-48",
+    "roadAddress" : "서울특별시 중구 세종대로21길 53",
+    "mapx" : "309697",
+    "mapy" : "552354",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8ef"),
+    "title" : "돈수백 <b>서울역</b>점",
+    "link" : "",
+    "category" : "한식>국밥",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 12 동부빌딩 1층",
+    "roadAddress" : "서울특별시 용산구 후암로 107 게이트웨이타워",
+    "mapx" : "309497",
+    "mapy" : "550633",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f0"),
+    "title" : "본가닭한마리 광화문점",
+    "link" : "",
+    "category" : "한식>닭요리",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 종로구 당주동 40",
+    "roadAddress" : "서울특별시 종로구 새문안로5길 11",
+    "mapx" : "309631",
+    "mapy" : "552606",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f1"),
+    "title" : "전주콩나물<b>국밥</b>",
+    "link" : "",
+    "category" : "한식>국밥",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 원효로2가 1-37",
+    "roadAddress" : "서울특별시 용산구 백범로 338",
+    "mapx" : "308861",
+    "mapy" : "548902",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f2"),
+    "title" : "메시야",
+    "link" : "",
+    "category" : "일식>돈가스",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 14-132",
+    "roadAddress" : "서울특별시 용산구 한강대로 358",
+    "mapx" : "309384",
+    "mapy" : "550265",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f3"),
+    "title" : "후암<b>돈까스</b>",
+    "link" : "",
+    "category" : "일식>돈가스",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 444",
+    "roadAddress" : "서울특별시 용산구 소월로2길 7",
+    "mapx" : "309792",
+    "mapy" : "550768",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f4"),
+    "title" : "샐러디 서울스퀘어점",
+    "link" : "http://www.saladykorea.com/",
+    "category" : "도시락,컵밥>다이어트,샐러드",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 541",
+    "roadAddress" : "서울특별시 중구 한강대로 416 서울스퀘어 지하1층",
+    "mapx" : "309524",
+    "mapy" : "550866",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f5"),
+    "title" : "무무<b>돈카츠</b>",
+    "link" : "",
+    "category" : "일식>돈가스",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 종로구 신문로1가 163",
+    "roadAddress" : "서울특별시 종로구 새문안로 92 오피시아빌딩 지하1층",
+    "mapx" : "309644",
+    "mapy" : "552442",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f6"),
+    "title" : "또와또",
+    "link" : "",
+    "category" : "분식>떡볶이",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동3가 111-23",
+    "roadAddress" : "서울특별시 용산구 청파로47길 59",
+    "mapx" : "308921",
+    "mapy" : "549670",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f7"),
+    "title" : "유림면",
+    "link" : "",
+    "category" : "한식>국수",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 서소문동 16",
+    "roadAddress" : "서울특별시 중구 서소문로 139-1",
+    "mapx" : "309742",
+    "mapy" : "551831",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f8"),
+    "title" : "카운테스<b>마라</b> 롯데아울렛<b>서울역</b>점",
+    "link" : "",
+    "category" : "쇼핑,유통>남성정장",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 봉래동2가 122-11",
+    "roadAddress" : "서울특별시 중구 한강대로 405 롯데아울렛서울역점 3F",
+    "mapx" : "309261",
+    "mapy" : "550776",
+    "hate" : 0,
+    "like" : 1
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8f9"),
+    "title" : "충무칼<b>국수</b>",
+    "link" : "",
+    "category" : "한식>칼국수,만두",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 23-29",
+    "roadAddress" : "서울특별시 용산구 한강대로104길 38",
+    "mapx" : "309569",
+    "mapy" : "550278",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8fa"),
+    "title" : "장칼<b>국수</b>족발",
+    "link" : "http://www.jangkal.co.kr",
+    "category" : "한식>칼국수,만두",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 17-4",
+    "roadAddress" : "서울특별시 중구 세종대로 24",
+    "mapx" : "309581",
+    "mapy" : "551211",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8fb"),
+    "title" : "유즈라멘",
+    "link" : "https://instagram.com/yuzu_ramen?igshid=11uo8yy6mt1aw",
+    "category" : "일식>일본식라면",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 만리동1가 53-8",
+    "roadAddress" : "서울특별시 중구 만리재로 217",
+    "mapx" : "309036",
+    "mapy" : "551024",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8fc"),
+    "title" : "한국무한<b>삼겹</b>",
+    "link" : "",
+    "category" : "한식>돼지고기구이",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동  43-15",
+    "roadAddress" : "서울특별시 용산구 한강대로 371-1 삼성의료보조기",
+    "mapx" : "309364",
+    "mapy" : "550426",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8fd"),
+    "title" : "따띠<b>삼겹</b> 숙대점",
+    "link" : "",
+    "category" : "음식점>한식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동3가 15-5",
+    "roadAddress" : "서울특별시 용산구 청파로47길 1",
+    "mapx" : "308972",
+    "mapy" : "549702",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8fe"),
+    "title" : "호호쭈꾸미<b>삼겹</b>",
+    "link" : "",
+    "category" : "한식>주꾸미요리",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 서대문구 미근동 60-19",
+    "roadAddress" : "서울특별시 서대문구 충정로6길 33",
+    "mapx" : "308891",
+    "mapy" : "551657",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e8ff"),
+    "title" : "더the철판<b>삼겹</b>숙대점",
+    "link" : "",
+    "category" : "한식>돼지고기구이",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동3가 29-2",
+    "roadAddress" : "서울특별시 용산구 청파로45길 17 1층",
+    "mapx" : "309143",
+    "mapy" : "549623",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e900"),
+    "title" : "피셔맨스키친 <b>서울역</b>본점",
+    "link" : "http://instagram.com/ceo_fmk",
+    "category" : "음식점>이탈리아음식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 84-11 연세재단 세브란스빌딩 B1",
+    "roadAddress" : "서울특별시 중구 통일로 10 연세세브란스빌딩",
+    "mapx" : "309518",
+    "mapy" : "551040",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e901"),
+    "title" : "라리에또 숙대점",
+    "link" : "http://lalietosd.fordining.kr/",
+    "category" : "음식점>이탈리아음식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동2가 60-1",
+    "roadAddress" : "서울특별시 용산구 청파로47나길 13",
+    "mapx" : "308899",
+    "mapy" : "549769",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e902"),
+    "title" : "더제이케이키친박스 시청역점",
+    "link" : "http://www.thejkkitchenbox.com/",
+    "category" : "양식>이탈리아음식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 서소문동 97-2",
+    "roadAddress" : "서울특별시 중구 서소문로 134",
+    "mapx" : "309719",
+    "mapy" : "551757",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e903"),
+    "title" : "카니발<b>피자</b> 서울스퀘어점",
+    "link" : "http://www.kanivalpizza.com/",
+    "category" : "양식>피자",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 봉래동2가 128 서울스퀘어 지하1층",
+    "roadAddress" : "서울특별시 중구 한강대로 416 서울스퀘어 지하1층",
+    "mapx" : "309509",
+    "mapy" : "550866",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e904"),
+    "title" : "아그라 서울로점",
+    "link" : "http://www.instagram.com/agrafood",
+    "category" : "음식점>인도음식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 526",
+    "roadAddress" : "서울특별시 중구 퇴계로 18 대우재단빌딩 1층 1-3호",
+    "mapx" : "309651",
+    "mapy" : "550980",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e905"),
+    "title" : "메이드인시카고<b>피자</b> 덕수궁점",
+    "link" : "",
+    "category" : "음식점>피자",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 태평로2가 365 2층",
+    "roadAddress" : "서울특별시 중구 덕수궁길 5",
+    "mapx" : "309775",
+    "mapy" : "551892",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e906"),
+    "title" : "바스버거 후암점",
+    "link" : "http://www.instagram.com/basburger_/",
+    "category" : "양식>햄버거",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 23-30 지상2층",
+    "roadAddress" : "서울특별시 용산구 한강대로104길 32 지상2층",
+    "mapx" : "309545",
+    "mapy" : "550279",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e907"),
+    "title" : "버거운녀석들",
+    "link" : "http://www.burgerguys.co.kr",
+    "category" : "음식점>햄버거",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 440",
+    "roadAddress" : "서울특별시 용산구 소월로2길 5",
+    "mapx" : "309791",
+    "mapy" : "550793",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e908"),
+    "title" : "더백푸드트럭",
+    "link" : "https://www.facebook.com/the100foodtruck",
+    "category" : "음식점>햄버거",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 406-55 1층",
+    "roadAddress" : "서울특별시 용산구 신흥로20길 45-1 1층",
+    "mapx" : "310426",
+    "mapy" : "549967",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e909"),
+    "title" : "파리크라상 <b>서울역</b>점",
+    "link" : "http://www.pariscroissant.co.kr/",
+    "category" : "카페,디저트>베이커리",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 43-205 서울역 2F",
+    "roadAddress" : "서울특별시 용산구 한강대로 405 서울역 2F",
+    "mapx" : "309269",
+    "mapy" : "550804",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e90a"),
+    "title" : "버거킹 <b>서울역</b>점",
+    "link" : "http://www.burgerking.co.kr/",
+    "category" : "양식>햄버거",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 43-205 서울역 3F",
+    "roadAddress" : "서울특별시 용산구 한강대로 405 서울역 3F",
+    "mapx" : "309268",
+    "mapy" : "550720",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e90b"),
+    "title" : "야스노야 본점",
+    "link" : "http://www.instagram.com/yasunoya",
+    "category" : "일식>일식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 251-15",
+    "roadAddress" : "서울특별시 용산구 후암로 8-1",
+    "mapx" : "309925",
+    "mapy" : "549886",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e90c"),
+    "title" : "오제제",
+    "link" : "",
+    "category" : "일식>일식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 43-22 1층",
+    "roadAddress" : "서울특별시 용산구 한강대로 363-2 1층",
+    "mapx" : "309348",
+    "mapy" : "550361",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e90d"),
+    "title" : "이이네",
+    "link" : "",
+    "category" : "일식>일식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 446-43 1층 이이네",
+    "roadAddress" : "서울특별시 용산구 소월로2길 37",
+    "mapx" : "309783",
+    "mapy" : "550614",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e90e"),
+    "title" : "후암편백",
+    "link" : "https://huampyeonaek.modoo.at",
+    "category" : "일식>일식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 78-1",
+    "roadAddress" : "서울특별시 용산구 후암로 57-1",
+    "mapx" : "309797",
+    "mapy" : "550365",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e90f"),
+    "title" : "박가부대 서울스퀘어점",
+    "link" : "",
+    "category" : "한식>찌개,전골",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 541 서울스퀘어 지하1층 19호",
+    "roadAddress" : "서울특별시 중구 한강대로 416 서울스퀘어 지하1층 19호",
+    "mapx" : "309524",
+    "mapy" : "550866",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e910"),
+    "title" : "육대장 <b>서울역</b>점",
+    "link" : "",
+    "category" : "한식>찌개,전골",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 827",
+    "roadAddress" : "서울특별시 중구 소월로2길 30 남산트라펠리스 1층",
+    "mapx" : "309689",
+    "mapy" : "550695",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e911"),
+    "title" : "대독장 <b>서울역</b>점",
+    "link" : "http://www.ddjang.net/",
+    "category" : "한식>찌개,전골",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 12",
+    "roadAddress" : "서울특별시 용산구 후암로 107 게이트웨이타워건물 1층",
+    "mapx" : "309505",
+    "mapy" : "550639",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e912"),
+    "title" : "육대장 광화문점",
+    "link" : "",
+    "category" : "한식>찌개,전골",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 종로구 당주동 37-6",
+    "roadAddress" : "서울특별시 종로구 새문안로5길 8-1",
+    "mapx" : "309655",
+    "mapy" : "552586",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e913"),
+    "title" : "두메산골",
+    "link" : "",
+    "category" : "한식>찌개,전골",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 중림동 136",
+    "roadAddress" : "서울특별시 중구 중림로 41-2",
+    "mapx" : "309007",
+    "mapy" : "551117",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e914"),
+    "title" : "태향",
+    "link" : "",
+    "category" : "중식>중식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 9-4",
+    "roadAddress" : "서울특별시 용산구 후암로57길 3-10",
+    "mapx" : "309598",
+    "mapy" : "550600",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e915"),
+    "title" : "홍대개미 <b>서울역</b>사점",
+    "link" : "",
+    "category" : "일식>덮밥",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 43-205",
+    "roadAddress" : "서울특별시 용산구 청파로 378 3층",
+    "mapx" : "309221",
+    "mapy" : "550589",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e916"),
+    "title" : "만복림",
+    "link" : "http://www.manbokrim.co.kr/",
+    "category" : "중식>중식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 631 LG서울역빌딩",
+    "roadAddress" : "서울특별시 중구 후암로 98 LG서울역빌딩",
+    "mapx" : "309611",
+    "mapy" : "550684",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e917"),
+    "title" : "해랑스시",
+    "link" : "https://haerangsushisg.modoo.at/",
+    "category" : "일식>초밥,롤",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 84-11",
+    "roadAddress" : "서울특별시 중구 통일로 10 연세세브란스빌딩",
+    "mapx" : "309518",
+    "mapy" : "551040",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e918"),
+    "title" : "루싱",
+    "link" : "http://www.luxing.co.kr",
+    "category" : "중식>중식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 541 서울스퀘어 B1",
+    "roadAddress" : "서울특별시 중구 한강대로 416 서울스퀘어",
+    "mapx" : "309493",
+    "mapy" : "550888",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e919"),
+    "title" : "써브웨이 <b>서울역</b>동자점",
+    "link" : "http://www.subway.co.kr/",
+    "category" : "음식점>샌드위치",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 12 게이트웨이타워",
+    "roadAddress" : "서울특별시 용산구 후암로 107 게이트웨이타워",
+    "mapx" : "309498",
+    "mapy" : "550633",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e91a"),
+    "title" : "리나스 숭례문점",
+    "link" : "http://linassrm.itrocks.kr/",
+    "category" : "양식>샌드위치",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 봉래동1가 4-2",
+    "roadAddress" : "서울특별시 중구 칠패로 46",
+    "mapx" : "309555",
+    "mapy" : "551320",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e91b"),
+    "title" : "퀴즈노스 서울스퀘어점",
+    "link" : "http://www.quiznos.co.kr/",
+    "category" : "음식점>샌드위치",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 541 서울스퀘어 1층",
+    "roadAddress" : "서울특별시 중구 한강대로 416 서울스퀘어",
+    "mapx" : "309534",
+    "mapy" : "550863",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e91c"),
+    "title" : "에그드랍 서울로테라스점",
+    "link" : "http://www.eggdrop.co.kr/",
+    "category" : "양식>샌드위치",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 526 2층 2-6호",
+    "roadAddress" : "서울특별시 중구 퇴계로 18 2층 2-6호",
+    "mapx" : "309651",
+    "mapy" : "550980",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e91d"),
+    "title" : "써브웨이 충정로점",
+    "link" : "http://www.subway.co.kr/",
+    "category" : "음식점>샌드위치",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 서대문구 충정로3가 470",
+    "roadAddress" : "서울특별시 서대문구 충정로 23 풍산빌딩 지하 2층",
+    "mapx" : "308583",
+    "mapy" : "551517",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e91e"),
+    "title" : "홍철책빵",
+    "link" : "",
+    "category" : "카페,디저트>베이커리",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 123-11",
+    "roadAddress" : "서울특별시 용산구 한강대로102길 57",
+    "mapx" : "309648",
+    "mapy" : "550188",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 55 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e91f"),
+    "title" : "얌얌브레드 서울상공회의소점",
+    "link" : "",
+    "category" : "베이커리>얌얌식빵",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로4가 45 지하 1층",
+    "roadAddress" : "서울특별시 중구 세종대로 39 지하 1층",
+    "mapx" : "309532",
+    "mapy" : "551442",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 56 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e920"),
+    "title" : "한입마카롱 숙대점",
+    "link" : "",
+    "category" : "카페,디저트>베이커리",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동2가 63-5",
+    "roadAddress" : "서울특별시 용산구 청파로47길 66 1층 커피니 매장 안",
+    "mapx" : "308895",
+    "mapy" : "549712",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 57 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e921"),
+    "title" : "브리오슈도레 대우재단서울로점",
+    "link" : "http://www.briochedoree.co.kr",
+    "category" : "카페,디저트>베이커리",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 526 2F",
+    "roadAddress" : "서울특별시 중구 퇴계로 18 2F",
+    "mapx" : "309650",
+    "mapy" : "550981",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 58 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e922"),
+    "title" : "고구려전통<b>삼계탕</b>",
+    "link" : "",
+    "category" : "한식>백숙,삼계탕",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 63-11",
+    "roadAddress" : "서울특별시 중구 세종대로 5",
+    "mapx" : "309434",
+    "mapy" : "551112",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 59 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e923"),
+    "title" : "약초마을 중앙점",
+    "link" : "http://www.greencho.co.kr/",
+    "category" : "한식>백숙,삼계탕",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 35-85",
+    "roadAddress" : "서울특별시 용산구 후암로57길 67",
+    "mapx" : "309546",
+    "mapy" : "550313",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 60 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e924"),
+    "title" : "예 신라삼계탕 본점",
+    "link" : "http://blog.naver.com/msks1975",
+    "category" : "한식>백숙,삼계탕",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 순화동 151",
+    "roadAddress" : "서울특별시 중구 칠패로 27 순화동더샵",
+    "mapx" : "309380",
+    "mapy" : "551384",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 61 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e925"),
+    "title" : "예신라<b>삼계탕</b> 서소문점",
+    "link" : "http://blog.naver.com/msks1975",
+    "category" : "한식>백숙,삼계탕",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 중림동 355 브라운스톤 107-1호",
+    "roadAddress" : "서울특별시 중구 청파로 464 브라운스톤서울",
+    "mapx" : "309034",
+    "mapy" : "551473",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 62 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e926"),
+    "title" : "강원정",
+    "link" : "",
+    "category" : "한식>백숙,삼계탕",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 원효로1가 48-7",
+    "roadAddress" : "서울특별시 용산구 원효로89길 13-10",
+    "mapx" : "308986",
+    "mapy" : "549201",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 63 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e927"),
+    "title" : "로켓 크리스피 <b>치킨</b>",
+    "link" : "http://www.instagram.com/rocketcrispychicken/",
+    "category" : "음식점>치킨,닭강정",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 84-16",
+    "roadAddress" : "서울특별시 중구 퇴계로 19 서울리스타",
+    "mapx" : "309624",
+    "mapy" : "551052",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 64 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e928"),
+    "title" : "뽀뽀<b>치킨</b>",
+    "link" : "",
+    "category" : "음식점>치킨,닭강정",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 63-10 1층 뽀뽀치킨",
+    "roadAddress" : "서울특별시 중구 세종대로 3-1",
+    "mapx" : "309419",
+    "mapy" : "551105",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 65 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e929"),
+    "title" : "부암동<b>치킨</b>",
+    "link" : "",
+    "category" : "음식점>치킨,닭강정",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동3가 111-35",
+    "roadAddress" : "서울특별시 용산구 청파로47길 57",
+    "mapx" : "308936",
+    "mapy" : "549665",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 66 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e92a"),
+    "title" : "노랑통닭 <b>서울역</b>점",
+    "link" : "http://norangtongdak.co.kr/",
+    "category" : "음식점>치킨,닭강정",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 43-62",
+    "roadAddress" : "서울특별시 용산구 한강대로 381-1 대길취업",
+    "mapx" : "309381",
+    "mapy" : "550529",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 67 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e92b"),
+    "title" : "오븐에빠진닭 광화문점",
+    "link" : "http://www.oppadak.co.kr/",
+    "category" : "음식점>치킨,닭강정",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 종로구 당주동 171",
+    "roadAddress" : "서울특별시 종로구 새문안로5길 5",
+    "mapx" : "309632",
+    "mapy" : "552554",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 68 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e92c"),
+    "title" : "빨봉분식 숙명여대점",
+    "link" : "",
+    "category" : "분식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동2가 64-13",
+    "roadAddress" : "서울특별시 용산구 청파로47길 71",
+    "mapx" : "308866",
+    "mapy" : "549690",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 69 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e92d"),
+    "title" : "<b>서울역</b>철도<b>떡볶이</b>",
+    "link" : "",
+    "category" : "분식>떡볶이",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 서계동 223-42 1층",
+    "roadAddress" : "서울특별시 용산구 청파로93길 18-1",
+    "mapx" : "309000",
+    "mapy" : "550738",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 70 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e92e"),
+    "title" : "<b>떡볶이</b>만세",
+    "link" : "",
+    "category" : "분식>떡볶이",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 서대문구 충정로3가 251-1",
+    "roadAddress" : "서울특별시 서대문구 충정로 26",
+    "mapx" : "308650",
+    "mapy" : "551507",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 71 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e92f"),
+    "title" : "마부 <b>마라</b>탕&amp;<b>마라</b>샹궈",
+    "link" : "http://mabumara.cityfood.co.kr/",
+    "category" : "중식>중식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 116-27 2층",
+    "roadAddress" : "서울특별시 용산구 한강대로104길 60 2층",
+    "mapx" : "309672",
+    "mapy" : "550272",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 72 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e930"),
+    "title" : "<b>마라</b>공방 광화문점",
+    "link" : "",
+    "category" : "중식>중식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 태평로1가 76-1 2층",
+    "roadAddress" : "서울특별시 중구 세종대로21길 55 2층",
+    "mapx" : "309736",
+    "mapy" : "552361",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 73 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e931"),
+    "title" : "<b>마라</b>박사",
+    "link" : "https://m.blog.naver.com/haekyu77?suggestaddbuddy=true",
+    "category" : "중식>중식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 남영동 101-4",
+    "roadAddress" : "서울특별시 용산구 한강대로76길 11-4",
+    "mapx" : "309522",
+    "mapy" : "549342",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 74 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e932"),
+    "title" : "잉꼬",
+    "link" : "http://www.42factory.co.kr/",
+    "category" : "일식>초밥,롤",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 17-3",
+    "roadAddress" : "서울특별시 중구 세종대로 22 2층",
+    "mapx" : "309577",
+    "mapy" : "551195",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 75 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e933"),
+    "title" : "아노",
+    "link" : "",
+    "category" : "일식>일식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 43-205 서울역사 4층",
+    "roadAddress" : "서울특별시 용산구 청파로 378 철도청, 3층 303호",
+    "mapx" : "309257",
+    "mapy" : "550454",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 76 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e934"),
+    "title" : "미도리스시",
+    "link" : "",
+    "category" : "일식>초밥,롤",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 종로구 당주동 20-2",
+    "roadAddress" : "서울특별시 종로구 새문안로9길 29-1",
+    "mapx" : "309686",
+    "mapy" : "552616",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 77 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e935"),
+    "title" : "이창희스시",
+    "link" : "http://www.이창희스시.kr/",
+    "category" : "일식>일식당",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 동자동 9-3",
+    "roadAddress" : "서울특별시 용산구 후암로57길 3-14",
+    "mapx" : "309635",
+    "mapy" : "550596",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 78 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e936"),
+    "title" : "사리",
+    "link" : "http://www.sarikorea.com/",
+    "category" : "음식점>인도음식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 순화동 151 포스코더샵 B동 205호",
+    "roadAddress" : "서울특별시 중구 칠패로 27 순화동더샵",
+    "mapx" : "309381",
+    "mapy" : "551423",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 79 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e937"),
+    "title" : "리즈너블한식당",
+    "link" : "",
+    "category" : "음식점>한식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 중림동 334-6 1층",
+    "roadAddress" : "서울특별시 중구 만리재로35길 50 1층",
+    "mapx" : "309014",
+    "mapy" : "551069",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 80 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e938"),
+    "title" : "사위식당 서울스퀘어점",
+    "link" : "",
+    "category" : "한식>곱창,막창,양",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 541 지하1층 2호,36호",
+    "roadAddress" : "서울특별시 중구 한강대로 416 지하1층 2호,36호",
+    "mapx" : "309526",
+    "mapy" : "550864",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 81 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e939"),
+    "title" : "연타발 <b>서울역</b>점",
+    "link" : "https://yeontabal.modoo.at/",
+    "category" : "육류,고기요리>곱창,막창,양",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 537",
+    "roadAddress" : "서울특별시 중구 퇴계로 10 B1층",
+    "mapx" : "309579",
+    "mapy" : "550966",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 82 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e93a"),
+    "title" : "마포곱창",
+    "link" : "",
+    "category" : "한식>곱창,막창,양",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 63-19",
+    "roadAddress" : "서울특별시 중구 세종대로1길 5",
+    "mapx" : "309443",
+    "mapy" : "551159",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 83 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e93b"),
+    "title" : "삼미양꼬치",
+    "link" : "",
+    "category" : "중식>양꼬치",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 63-12",
+    "roadAddress" : "서울특별시 중구 세종대로 5",
+    "mapx" : "309427",
+    "mapy" : "551106",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 84 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e93c"),
+    "title" : "김가네양꼬치",
+    "link" : "",
+    "category" : "중식>양꼬치",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 458",
+    "roadAddress" : "서울특별시 용산구 후암로 65 101동 지하2층 209호",
+    "mapx" : "309762",
+    "mapy" : "550370",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 85 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e93d"),
+    "title" : "모던키친",
+    "link" : "http://instagram.com/modernkitchen0808",
+    "category" : "일식>덮밥",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 중림동 355",
+    "roadAddress" : "서울특별시 중구 청파로 464 브라운스톤 103동203-1호 2층",
+    "mapx" : "309052",
+    "mapy" : "551470",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 86 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e93e"),
+    "title" : "명가국시",
+    "link" : "",
+    "category" : "일식>덮밥",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 봉래동1가 5-41 연세봉래빌딩B110호",
+    "roadAddress" : "서울특별시 중구 칠패로 36",
+    "mapx" : "309440",
+    "mapy" : "551299",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 87 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e93f"),
+    "title" : "명가<b>덮밥</b>앤국시",
+    "link" : "",
+    "category" : "음식점>한식",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 봉래동1가 5-41",
+    "roadAddress" : "서울특별시 중구 칠패로 36",
+    "mapx" : "309454",
+    "mapy" : "551296",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 88 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e940"),
+    "title" : "드래곤보울 고온시청점",
+    "link" : "",
+    "category" : "일식>덮밥",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 정동 34-5 1층",
+    "roadAddress" : "서울특별시 중구 서소문로11길 19 1층",
+    "mapx" : "309430",
+    "mapy" : "551746",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 89 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e941"),
+    "title" : "호수집",
+    "link" : "",
+    "category" : "한식>닭요리",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 중림동 61-4",
+    "roadAddress" : "서울특별시 중구 청파로 443",
+    "mapx" : "309081",
+    "mapy" : "551265",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 90 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e942"),
+    "title" : "호식이두마리치킨 후암점",
+    "link" : "http://20167.mbym.co.kr/",
+    "category" : "음식점>치킨,닭강정",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 후암동 158-6 1층",
+    "roadAddress" : "서울특별시 용산구 두텁바위로1길 71",
+    "mapx" : "309666",
+    "mapy" : "549942",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 91 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e943"),
+    "title" : "BHC치킨 숙대점",
+    "link" : "http://14407.mbym.co.kr/",
+    "category" : "음식점>치킨,닭강정",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동1가 132-3",
+    "roadAddress" : "서울특별시 용산구 청파로71길 5",
+    "mapx" : "309142",
+    "mapy" : "550169",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 92 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e944"),
+    "title" : "몬스터플레이스",
+    "link" : "",
+    "category" : "도시락,컵밥>다이어트,샐러드",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동3가 114-3",
+    "roadAddress" : "서울특별시 용산구 청파로43길 70 지층 몬스터플레이스",
+    "mapx" : "308895",
+    "mapy" : "549612",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 93 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e945"),
+    "title" : "스윗밸런스 퍼시픽타워점",
+    "link" : "https://sweetbalance.kr/",
+    "category" : "도시락,컵밥>다이어트,샐러드",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 서소문동 135",
+    "roadAddress" : "서울특별시 중구 세종대로9길 41 지하1층 스윗밸런스 퍼시픽타워점",
+    "mapx" : "309462",
+    "mapy" : "551516",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 94 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e946"),
+    "title" : "샐러디 숙명여대점",
+    "link" : "http://www.saladykorea.com/",
+    "category" : "도시락,컵밥>다이어트,샐러드",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동2가 64-18",
+    "roadAddress" : "서울특별시 용산구 청파로47길 67 1층 샐러디 숙명여대점",
+    "mapx" : "308879",
+    "mapy" : "549686",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 95 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e947"),
+    "title" : "과일한컵",
+    "link" : "http://blog.naver.com/gnb_fruits",
+    "category" : "도시락,컵밥>다이어트,샐러드",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 서계동 99-15",
+    "roadAddress" : "서울특별시 용산구 청파로 349 1층",
+    "mapx" : "309131",
+    "mapy" : "550338",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 96 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e948"),
+    "title" : "MANRI199",
+    "link" : "http://www.instagram.com/manri199_taproom",
+    "category" : "술집>맥주,호프",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 만리동1가 62-19",
+    "roadAddress" : "서울특별시 중구 만리재로 199 1층",
+    "mapx" : "308992",
+    "mapy" : "550867",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 97 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e949"),
+    "title" : "서울리스타",
+    "link" : "http://www.seoulista.place/",
+    "category" : "술집>맥주,호프",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 남대문로5가 84-16 호텔마누 1~2층",
+    "roadAddress" : "서울특별시 중구 퇴계로 19 호텔마누 1~2층",
+    "mapx" : "309628",
+    "mapy" : "551043",
+    "hate" : 0,
+    "like" : 1
+}
+
+/* 98 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e94a"),
+    "title" : "낮과밤",
+    "link" : "",
+    "category" : "술집>맥주,호프",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 용산구 청파동3가 114-8",
+    "roadAddress" : "서울특별시 용산구 청파로47가길 9-4",
+    "mapx" : "308911",
+    "mapy" : "549621",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 99 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e94b"),
+    "title" : "생활<b>맥주</b> 광화문점",
+    "link" : "",
+    "category" : "술집>맥주,호프",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 종로구 당주동 167-1",
+    "roadAddress" : "서울특별시 종로구 새문안로5길 11-7",
+    "mapx" : "309611",
+    "mapy" : "552602",
+    "hate" : 0,
+    "like" : 0
+}
+
+/* 100 */
+{
+    "_id" : ObjectId("5f9969846201ae0b0522e94c"),
+    "title" : "개돼지크래프트펍",
+    "link" : "",
+    "category" : "술집>맥주,호프",
+    "description" : "",
+    "telephone" : "",
+    "address" : "서울특별시 중구 만리동1가 51-1",
+    "roadAddress" : "서울특별시 중구 중림로 50-1",
+    "mapx" : "309041",
+    "mapy" : "551043",
+    "hate" : 0,
+    "like" : 0
+}

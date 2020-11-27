@@ -7,9 +7,11 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css"/>
         <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-
+        <meta property="og:title" content="오늘 점심 뭐 먹지? "/>
+        <meta property="og:description" content="회사 주변에 맛있는 식당이 어디인지 알려주세요"/>
+        <meta property="og:image" content="{{ url_for('static', filename='ogimage.png') }}"/>
         <!-- HTML에 이 부분을 추가하고 -->
-        <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
 
         <style>
             .center {
@@ -34,8 +36,19 @@
             }
 
             section > * {
-                font-family: 'Nanum Gothic', sans-serif;
+                font-family: 'Do Hyeon', sans-serif;
             }
+
+            h1 {
+                text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;;
+
+            }
+
+            h2 {
+                text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;;
+
+            }
+
 
         </style>
         <script>
@@ -132,15 +145,15 @@
         </script>
     </head>
     <body>
-        <section class="hero is-warning">
+        <section class="hero is-warning" style="background-image: url('https://i.postimg.cc/t4bvdBMB/image.png')">
             <div class="hero-body">
                 <div class="media">
                     <div class="container center">
                         <img src="https://ifh.cc/g/zcHO2o.png"
-                                 alt="Placeholder image"
+                             alt="Placeholder image"
                              width="48"
-                            />
-                        <h1 class="title">
+                        />
+                        <h1 class="title" style="color: #000000">
                             클쉐린 가이드😋
                         </h1>
                         <h2 class="subtitle">
@@ -151,37 +164,7 @@
             </div>
         </section>
         <div class="restaurant-list" id="restaurant-box">
-            <div class="card">
-                <div class="card-content">
-                    <div class="media">
-                        <div class="media-left">
-                            <figure class="image is-48x48">
-                                <img
-                                        src="https://ifh.cc/g/cS7G9m.jpg"
-                                        alt="Placeholder image"
-                                />
-                            </figure>
-                        </div>
-                        <div class="media-content">
-                            <a href="#" target="_blank" class="restaurant-name title is-4">8월의 기린 (좋아요: 3)</a>
-                        </div>
-                    </div>
-                </div>
-                <footer class="card-footer">
-                    <a href="#" onclick="likerestaurant('8월의 기린')" class="card-footer-item has-text-info">
-                        추천입니다 !
-                        <span class="icon">
-              <i class="fas fa-thumbs-up"></i>
-            </span>
-                    </a>
-                    <a href="#" onclick="haterestaurant('8월의 기린')" class="card-footer-item has-text-danger">
-                        흠..굳이?
-                        <span class="icon">
-              <i class="fas fa-thumbs-down"></i>
-            </span>
-                    </a>
-                </footer>
-            </div>
+
         </div>
     </body>
 </html>
